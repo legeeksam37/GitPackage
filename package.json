@@ -1,0 +1,27 @@
+{
+  "name": "com.manzalab.immersivenowtools",
+  "version": "2.2.0",
+  "displayName": "immersivenow_tools",
+  "description": "AssetValidator",
+  "category": "tool",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "dependencies": {
+
+  },
+  "keywords": [
+    "webview",
+    "browser",
+    "mobile"
+  ],
+  "author": {
+    "name": "Immersive Now Tools",
+    "email": "info@imnt.com"
+  },
+  "samples": [
+    {
+      "displayName": "WebView",
+      "description": "asset validator",
+      "path": "Samples~/WebView"
+    }
+  ]
